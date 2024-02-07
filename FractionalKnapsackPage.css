@@ -1,0 +1,51 @@
+/* src/css/FractionalKnapsackPage.css */
+
+.fractional-knapsack-page {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 16px;
+  }
+  
+  .input-container {
+    margin-bottom: 16px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    margin-top: 4px;
+  }
+  
+  .tooltip {
+    font-size: 0.8em;
+    color: #888;
+    margin-left: 4px;
+  }
+  
+  button {
+    background-color: #3498db;
+    color: #fff;
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #2980b9;
+  }
+  
+  Link {
+    display: block;
+    margin-top: 16px;
+    color: #3498db;
+    text-decoration: none;
+  }
+  
+  Link:hover {
+    text-decoration: underline;
+  }
+  

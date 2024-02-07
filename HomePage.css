@@ -1,0 +1,14 @@
+/* src/css/HomePage.css */
+
+.home-page {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 16px;
+  }
+  
+  .algorithm-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  

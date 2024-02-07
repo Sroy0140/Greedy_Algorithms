@@ -1,0 +1,24 @@
+/* src/css/AlgorithmCard.css */
+
+.algorithm-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px;
+    text-align: left;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 400px;
+  }
+  
+  .algorithm-card h3 {
+    color: #333;
+    font-size: 1.2em;
+    margin-bottom: 8px;
+  }
+  
+  .algorithm-card p {
+    color: #666;
+    font-size: 1em;
+  }
+  
