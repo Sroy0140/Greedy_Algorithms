@@ -1,14 +1,14 @@
 // src/App.js
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Header from './components/Header';
-import HomePage from './components/HomePage';
-import Footer from './components/Footer';
-import FractionalKnapsackPage from './components/FractionalKnapsackPage';
-import './css/App.css';
-import JobSequencingPage from './components/JobSequencingPage';
-import HuffmanCodingPage from './components/HuffmanCodingPage';
-import DijkstraPage from './components/DijkstraPage';
+import Header from 'Header.js';
+import HomePage from 'HomePage.js';
+import Footer from 'Footer.js';
+import FractionalKnapsackPage from 'FractionalKnapsackPage.js';
+import 'App.css';
+import JobSequencingPage from 'JobSequencingPage.js';
+import HuffmanCodingPage from 'HuffmanCodingPage.js';
+import DijkstraPage from 'DijkstraPage.js';
 
 function App() {
   return (
